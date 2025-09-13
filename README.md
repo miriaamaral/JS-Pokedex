@@ -31,9 +31,7 @@ Este projeto é uma excelente demonstração de como construir interfaces de usu
 ### **🎥 Veja o Projeto em Ação!**
 
 Quer explorar a Pokedex agora mesmo? Clique aqui para acessar a demo online!
-[**https://miriaamaral.github.io/JS-Pokedex/**](https://miriaamaral.github.io/JS-Pokedex/)
-
-*(Um deploy rápido no Netlify ou GitHub Pages fará com que seu projeto brilhe ainda mais no seu portfólio! Se precisar de ajuda para configurar, me avisa!)*
+[**https://miriaamaral.github.io/JS-Pokedex/**](https://miriaamaral.github.io/JS-Pokedex/) 
 
 ---
 
