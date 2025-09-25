@@ -19,7 +19,6 @@ Quer explorar a Pokedex agora mesmo? Clique aqui para acessar a demo online!
 [Pokedex](https://miriaamaral.github.io/JS-Pokedex/) 
 
 <img width="1366" height="641" alt="pokedex" src="https://github.com/user-attachments/assets/87c507d4-a525-46a0-9e5e-1713e9d7c5a2" />
-<img width="1366" height="642" alt="pokedex 2" src="https://github.com/user-attachments/assets/e9647c70-6f29-41b5-9758-e1e8efd5daa3" />
 <img width="1366" height="640" alt="pokedex 3" src="https://github.com/user-attachments/assets/3b15d462-04bc-46bf-b075-82ee057c0e53" />
 <img width="1366" height="645" alt="pokedex 4" src="https://github.com/user-attachments/assets/0bc3729c-3560-4116-b31f-9f9e502e7dbe" />
 <img width="1366" height="644" alt="pokedex 4 1" src="https://github.com/user-attachments/assets/52994a7a-5014-4ff0-8f84-c5b83499b70f" />
