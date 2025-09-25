@@ -1,12 +1,8 @@
-# ⚡ JS Pokedex: Capture Todos os Dados com JavaScript Puro e PokeAPI! ✨
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/miriaamaral/JS-Pokedex)](https://github.com/miriaamaral/JS-Pokedex/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/miriaamaral/JS-Pokedex)](https://github.com/miriaamaral/JS-Pokedex/graphs/contributors)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ◓ JS Pokedex: Capture Todos os Dados com JavaScript Puro e PokeAPI! 🐦‍🔥⚡
 
 E aí, meu 🐙! Prepare-se para embarcar em uma jornada para se tornar uma Mestre Pokémon (do Frontend)! 🚀 Este repositório apresenta uma **Pokedex interativa e responsiva** desenvolvida com **JavaScript puro, HTML e CSS**, que consome dados em tempo real da poderosa **PokeAPI**.
 
-Este projeto é uma excelente demonstração de como construir interfaces de usuário dinâmicas e funcionais, utilizando:
+Este projeto mostra muito bem como construi interfaces de usuário dinâmicas e funcionais, utilizando:
 
 * **Consumo de APIs:** Fazer requisições HTTP e processar os dados recebidos.
 * **Manipulação do DOM:** Atualizar a interface do usuário com as informações dos Pokémon.
@@ -14,9 +10,24 @@ Este projeto é uma excelente demonstração de como construir interfaces de usu
 
 É a sua chance de explorar o vasto universo Pokémon, enquanto eu demonstro minhas habilidades em Frontend na prática! Vem pesquisar e capturar todos os dados! 😉
 
+
 ---
 
-### **✨ Destaques do Projeto:**
+### **🎥 Veja o Projeto em Ação!**
+
+Quer explorar a Pokedex agora mesmo? Clique aqui para acessar a demo online!
+[Pokedex](https://miriaamaral.github.io/JS-Pokedex/) 
+
+<img width="1366" height="641" alt="pokedex" src="https://github.com/user-attachments/assets/87c507d4-a525-46a0-9e5e-1713e9d7c5a2" />
+<img width="1366" height="642" alt="pokedex 2" src="https://github.com/user-attachments/assets/e9647c70-6f29-41b5-9758-e1e8efd5daa3" />
+<img width="1366" height="640" alt="pokedex 3" src="https://github.com/user-attachments/assets/3b15d462-04bc-46bf-b075-82ee057c0e53" />
+<img width="1366" height="645" alt="pokedex 4" src="https://github.com/user-attachments/assets/0bc3729c-3560-4116-b31f-9f9e502e7dbe" />
+<img width="1366" height="644" alt="pokedex 4 1" src="https://github.com/user-attachments/assets/52994a7a-5014-4ff0-8f84-c5b83499b70f" />
+<img width="1364" height="643" alt="pokedex 5" src="https://github.com/user-attachments/assets/4d0e4bff-a954-436c-8e81-33e5e6e747aa" />
+
+---
+
+### **Ϟ(๑⚈ ․̫ ⚈๑)⋆  Destaques do Projeto:**
 
 * **Pokedex Interativa:** Navegue e descubra informações sobre diversos Pokémon.
 * **Consumo da PokeAPI:** Integração robusta com uma API externa para obter dados detalhados (nome, tipo, habilidades, imagem, etc.).
@@ -25,13 +36,6 @@ Este projeto é uma excelente demonstração de como construir interfaces de usu
 * **JavaScript Puro:** Demonstração do poder e flexibilidade do JS sem a necessidade de frameworks.
 * **HTML Semântico e CSS Estilizado:** Estrutura bem organizada e um visual intuitivo e agradável.
 * **Paginação (ou Scroll Infinito, se aplicável):** Navegação eficiente por uma grande quantidade de Pokémon. *(Se não tiver paginação/scroll infinito, pode remover este ponto)*
-
----
-
-### **🎥 Veja o Projeto em Ação!**
-
-Quer explorar a Pokedex agora mesmo? Clique aqui para acessar a demo online!
-[**https://miriaamaral.github.io/JS-Pokedex/**](https://miriaamaral.github.io/JS-Pokedex/) 
 
 ---
 
@@ -83,8 +87,9 @@ Este projeto está sob a licença MIT.
 
 Gostou da Pokedex, tem ideias para aprimorá-la, ou quer trocar uma ideia sobre JavaScript, APIs e Pokémon? Ficarei super feliz!
 
-* **LinkedIn:** [https://www.linkedin.com/in/miriaamaralcs](https://www.linkedin.com/in/miriaamaralcs)
-* **GitHub:** [https://github.com/miriaamaral](https://github.com/miriaamaral)
-* **Plataforma de Estudos (DIO):** [https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5](https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriaamaralcs) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miriaamaral) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/miriaamaralcustodiosantos)
+* *Plataforma de Estudos (DIO):* [https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5](https://www.dio.me/sign-up?ref=6F1F401485F9459BA6AC879FEA95D1B5)
 
-Vamos juntos construir o futuro da tecnologia (e pegar todos os Pokémon)! ✨
+Vamos juntos construir o futuro da tecnologia! ✨
+
+---
